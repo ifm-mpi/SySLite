@@ -15,7 +15,7 @@ import numpy as np
 from graphviz import Source
 
 #from scikit.tree import export_text
-from sklearn.tree.export import export_text
+from sklearn.tree import export_text
 
 from edu.uiowa.parser.Formula import PLTLFormula
 
