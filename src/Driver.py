@@ -68,3 +68,4 @@ if __name__ == "__main__":
     elasped_time = ('%.2f')%(stop - start)
     logging.info('Time: %s seconds'%(elasped_time))
     
+    print("Total time---%s---"%elasped_time)
